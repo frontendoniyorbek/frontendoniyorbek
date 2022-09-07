@@ -1,5 +1,8 @@
 # Tursunov Doniyorbek
 
+## Frontend dasturch.Frontend dasturlashni o'rganishni 2022-yilni boshidan boshlagan.Hozirda JavaScript chuqur va uning React kutubxonasini ishlashni o'rganmoqchi bo'lgan dasturchi
+
+[💼 Portfolio](https:frontendoniyorbek.uz)  | [📰 Telegram](https://t.me/TursunovDoniyorbekk)  |  [📧 Email](mailto:tursunovdoniyorbek077@gmail.com)
 
 ## Kontactlar
 <p align="left">
