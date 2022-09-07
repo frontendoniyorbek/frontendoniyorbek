@@ -1,14 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Tursunov Doniyorbek
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frontendoniyorbek&label=Profile%20views&color=0e75b6&style=flat" alt="frontendoniyorbek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frontendoniyorbek" alt="frontendoniyorbek" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **tursunovdoniyorbek077@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## Kontactlar
 <p align="left">
 <a href="https://fb.com/tursunov doniyorbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tursunov doniyorbek" height="30" width="40" /></a>
 <a href="https://instagram.com/tursunov_doniyorbek_0930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tursunov_doniyorbek_0930" height="30" width="40" /></a>
