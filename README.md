@@ -73,7 +73,7 @@
 | <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/vivqu9zlxbcv5mgxdjxq.jpg" alt="My team preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/myteam-multipage-website-mxlEauvW) | **My team** <br>O'zining IT servislarini taklif qiladigan kuchli jamoa veb sayti <br><br> <a href="https://github.com/MIRZOULUGBEK9008/myteam-selfmade">🧾 Repo</a> - <a href="https://myteam-selfmade.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 10 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Deyarli barcha rasmlar "position" bilan joylashgan |
 | <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/myteam-multipage-website-mxlEauvW) | **Ecommerce** <br>Onlayn internet do'kon asosan oyoq kiyim sotib olish uchun <br><br> <a href="https://github.com/MIRZOULUGBEK9008/ecommerce-selfmade">🧾 Repo</a> - <a href="https://ecommerce-selfmade.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 7 soat 55 daqiqa<br><br> **O'ziga xos jihatlari:** Rasmlar galereyasini universal BEM qidalariga mos ravishda tuzish |
 
-**<a href="https://portfolio-selfmade.netlify.app/" target="_blank">💼 Barcha loyihalar</a>**
+**<a href="[https://portfolio-selfmade.netlify.app/](https://github.com/frontendoniyorbek)" target="_blank">💼 Barcha loyihalar</a>**
 
 ## Kontactlar
 <p align="left">
