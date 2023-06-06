@@ -15,10 +15,6 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" /> </a>
-    <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp"
-            width="40" height="40" /> </a><a href="https://pugjs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
@@ -33,9 +29,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -64,17 +57,6 @@
             alt="photoshop" width="40" height="40" />
     </a>
     
-    
-## So'nggi loyihalar
-
-| Maket | Ta'rif |
-|---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/wirxeocmd6tpnn9c5oqc.jpg" alt="Davlatlar bayroqlari" width="250"/><br>[Maket manbasi](https://country-dtn.vercel.app/) | **Countries** <br>Davlatlar haqida ma'lumotlarni beruvchi web sayit <br><br> <a href="https://github.com/frontendoniyorbek/counties">🧾 Repo</a> - <a href="https://country-dtn.vercel.app/" target="_blank">🌐 Netlify</a> - ⌚ 20.01.2023<br><br> **O'ziga xos jihatlari:** Sayitda davlatlarni chegaradoshlari haqida ma'lumot olish mumkun...  |
-| <img src="https://drive.google.com/drive/my-drive" alt="Bookmark landing" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158) | **Bookmark landing** <br>O'zining IT servislarini taklif qiladigan kuchli jamoa veb sayti <br><br> <a href="https://github.com/frontendoniyorbek/bookmark-landing-page">🧾 Repo</a> - <a href="https://dtn-bookmark-landing.netlify.app" target="_blank">🌐 Netlify</a> - ⌚ 10 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Ajoyib web sayit |
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/erg4fyzl3bu0r4kwcvvq.jpg" alt="URL shortening API landing" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G) | **URL shortening API landing** <br>URL shortening API landing site <br><br> <a href="https://github.com/frontendoniyorbek/dtn-url-shortening-api-landing-page">🧾 Repo</a> - <a href="https://dtn-url-shortening.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 7 soat 55 daqiqa<br><br> **O'ziga xos jihatlari:** Rasmlar galereyasini universal BEM qidalariga mos ravishda tuzish |
-
-**<a href="[https://portfolio-selfmade.netlify.app/](https://github.com/frontendoniyorbek)" target="_blank">💼 Barcha loyihalar</a>**
-
 ## Kontactlar
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100074194453706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tursunov doniyorbek" height="30" width="40" /></a>
