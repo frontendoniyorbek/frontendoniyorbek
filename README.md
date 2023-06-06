@@ -2,7 +2,7 @@
 
 ## Frontend dasturch.Frontend dasturlashni o'rganishni 2022-yilni boshidan boshlagan.Hozirda kunda JavaScript chuqur va uning React kutubxonasini o'rganib bo'lgan dasturchi.
 
-[💼 Portfolio](https://github.com/frontendoniyorbek)  | [📰 Telegram](https://t.me/TursunovDoniyorbekk)  |  [📧 Email](mailto:tursunovdoniyorbek077@gmail.com)
+[💼 Portfolio](https://dtn-portfolio-web-site.netlify.app/)  | [📰 Telegram](https://t.me/Tursunov_Doniyorbekk)  |  [📧 Email](mailto:tursunovdoniyorbek077@gmail.com)
 
 ## Texnoligiyalar
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
