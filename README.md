@@ -1,6 +1,12 @@
 # Doniyorbek Tursunov
 
-## Frontend dasturch.Frontend dasturlashni o'rganishni 2022-yilni boshidan boshlagan.Hozirda kunda JavaScript chuqur va uning React kutubxonasini o'rganib bo'lgan dasturchi.
+## Highly skilled and motivated Frontend Developer with 1 year of experience
+I am currently working as a Frontend developer at @findwork from 01.06.2023 until now
+Create interactive and user-friendly web applications with React.js. Search a
+Challenging position as a Frontend Developer focusing on React.js at Dynamics
+an organization that I can use my technical expertise and passion to build
+great user experience. I completed the frontend course at Najot Talim
+Fergana branch in 2023. We worked on more than 10 projects with the team there
 
 [💼 Portfolio](https://dtn-portfolio-web-site.netlify.app/)  | [📰 Telegram](https://t.me/Tursunov_Doniyorbekk)  |  [📧 Email](mailto:tursunovdoniyorbek077@gmail.com)
 
