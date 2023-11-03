@@ -10,7 +10,7 @@ Fergana branch in 2023. We worked on more than 10 projects with the team there
 
 [💼 Portfolio](https://dtn-portfolio-web-site.netlify.app/)  | [📰 Telegram](https://t.me/Tursunov_Doniyorbekk)  |  [📧 Email](mailto:tursunovdoniyorbek077@gmail.com)
 
-## Texnoligiyalar
+## Technologies
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
@@ -63,7 +63,7 @@ Fergana branch in 2023. We worked on more than 10 projects with the team there
             alt="photoshop" width="40" height="40" />
     </a>
     
-## Kontactlar
+## Contacts
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100074194453706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tursunov doniyorbek" height="30" width="40" /></a>
 <a href="https://www.instagram.com/doniyorbek077__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tursunov_doniyorbek_0930" height="30" width="40" /></a>
