@@ -1,5 +1,20 @@
 # 💫 About Me:
-Doniyorbek Tursunov<br>Highly skilled and motivated Frontend Developer with 1 year of experience<br>I am currently working as a Frontend developer at @findwork from 01.06.2023 until now Create interactive and user-friendly web applications with React.js. Search a Challenging position as a Frontend Developer focusing on React.js at Dynamics an organization that I can use my technical expertise and passion to build great user experience. I completed the frontend course at Najot Talim Fergana branch in 2023. We worked on more than 10 projects with the team there
+Doniyorbek Tursunov<br>Hello! My name is Doniyorbek, and I have been working in frontend development for the past 2 years. My main focus has been on the React.js framework.
+
+I have been working at FindWork since 2023 and have been involved in creating various web applications during this time. In doing so, I have enhanced my skills in React.js, HTML, CSS, and JavaScript, and have experience in creating simple and effective interfaces.
+
+Since the beginning of 2024, I have been working as a senior instructor at New Look Educational Center. With this opportunity, I aim to further improve my teaching skills in programming.
+I am a creative, committed individual who is dedicated to creating useful web applications for hundreds of users. I keep a keen eye on the latest developments and am constantly striving to improve myself in the face of technological advancements.
+
+While I enjoy writing code for projects, I am equally passionate about teaching students new technologies and supporting them in practical application.
+
+If you are considering opportunities to participate in interesting development projects and contribute to the community, feel free to reach out to me. I value working with friends and colleagues, assessing my own time and resources, and gaining more knowledge.
+
+I hope you'll find how my skills and experiences could be beneficial to your community. I would be happy to discuss additional information and collaboration opportunities.
+
+Thank you!
+
+Doniyorbek
 
 
 ## 🌐 Socials:
