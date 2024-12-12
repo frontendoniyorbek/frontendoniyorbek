@@ -1,20 +1,28 @@
+Doniyorbek Tursunov
+Hello! I'm Doniyorbek, a dedicated Frontend Developer with over 1+ years of experience, specializing in React.js, Next.js, and JavaScript.
+
+# Experience
+FindWork (2023 – 2024)
+Developed various web applications, enhancing my skills in React.js, HTML, CSS, and JavaScript, with a focus on creating clean and user-friendly interfaces.
+
+New Look Educational Center (2024 – Early 2024)
+Serving as a Senior Instructor, mentoring students in programming, and guiding them to apply their skills in practical projects.
+
+Founder, Uber IT Academy (Established Late 2024)
+Founded Uber IT Academy, an institution dedicated to training the next generation of IT professionals and fostering a community of learners passionate about technology.
+
 # 💫 About Me:
-Doniyorbek Tursunov<br>Hello! My name is Doniyorbek, and I have been working in frontend development for the past +1 years. My main focus has been on the React.js framework.
+As a passionate developer, I am committed to crafting impactful web applications and empowering others through education. I stay up-to-date with the latest technological advancements and strive to improve continuously.
 
-I have been working at FindWork since 2023 and have been involved in creating various web applications during this time. In doing so, I have enhanced my skills in React.js, HTML, CSS, and JavaScript, and have experience in creating simple and effective interfaces.
+While I enjoy coding, I am equally passionate about teaching and helping others succeed in their programming journeys.
 
-Since the beginning of 2024, I have been working as a senior instructor at New Look Educational Center. With this opportunity, I aim to further improve my teaching skills in programming.
-I am a creative, committed individual who is dedicated to creating useful web applications for hundreds of users. I keep a keen eye on the latest developments and am constantly striving to improve myself in the face of technological advancements.
+# Let's Collaborate!
+If you're looking for a skilled developer or an experienced mentor for exciting projects, feel free to reach out. I’d love to contribute to impactful initiatives and collaborate with like-minded professionals.
 
-While I enjoy writing code for projects, I am equally passionate about teaching students new technologies and supporting them in practical application.
-
-If you are considering opportunities to participate in interesting development projects and contribute to the community, feel free to reach out to me. I value working with friends and colleagues, assessing my own time and resources, and gaining more knowledge.
-
-I hope you'll find how my skills and experiences could be beneficial to your community. I would be happy to discuss additional information and collaboration opportunities.
-
-Thank you!
-
-Doniyorbek
+# 🛠️ Skills
+Frontend: React.js, Next.js, JavaScript, HTML, CSS
+Teaching: Programming mentorship and practical training
+Tools: Figma, Pixso
 
 
 ## 🌐 Socials:
